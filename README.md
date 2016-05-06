@@ -1,3 +1,3 @@
-# Google Safebrowsing APIv3.1 for Java
+# Google Safebrowsing API v3.1 for Java
 
 
