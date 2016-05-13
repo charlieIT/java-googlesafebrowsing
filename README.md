@@ -81,7 +81,7 @@ Note: Post Method usage is limited to 500 lines per request
 		 <input file> should contain the hostnames/ips in the first column
 		 
 	--- Optional ---
-	[client,appver] cmd line arguments Not implemented in v1.0
+	[client,appver,compact]
 	-client <client info>
 	-appver <application version>
 	-compact
