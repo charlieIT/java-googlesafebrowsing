@@ -1,0 +1,7 @@
+wt8.52zsoft.com/hhbqxgq.exe, suspicious
+http://www.transparenciahackday.org/, safe
+https://mail.google.com/, safe
+https://news.ycombinator.com/, 	safe
+https://www.facebook.com/, the bane of productivity (:
+sub.spirlymo.com/installers/bi_downloader/1460851393785/setup.exe; unsafe
+http://ianfette.org;	registered as malware website
