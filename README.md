@@ -54,7 +54,7 @@
                     .lookupURL("https://raw.githubusercontent.com/charlieIT/java-googlesafebrowsing/master/test_urls.txt");
         System.out.println(Utils.prettyJson(Utils.buildCompactReport(post_2_res)));
 ```
-###OUTPUT:
+###Output:
 ```java
         /*
         * Various options for output and output format
