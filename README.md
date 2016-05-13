@@ -49,10 +49,10 @@
         System.out.println(report);
         
         //POST Request ex 2 - using a remote file containing the urls to be checked
-        LookupResult post_2_res = 
+        LookupResult postRes = 
                 new Lookup(apiKey, "POST")
                     .lookupURL("https://raw.githubusercontent.com/charlieIT/java-googlesafebrowsing/master/test_urls.txt");
-        System.out.println(Utils.prettyJson(Utils.buildCompactReport(post_2_res)));
+        System.out.println(Utils.prettyJson(Utils.buildCompactReport(postRes)));
 ```
 ###Output:
 ```java
@@ -96,7 +96,7 @@ POST
 GET
 - java -jar <jar file with dependencies> -get -k <key> -u <url>
 
-HELP:
+HELP
 java -jar <jar file with dependencies> -h
 java -jar <jar file with dependencies> -get -h
 java -jar <jar file with dependencies> -post -h
