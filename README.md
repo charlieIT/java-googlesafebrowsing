@@ -2,13 +2,13 @@
 
 ### This project implements de Google Safe Browsing Lookup API v3.1 in Java.
 
-Features as of v1.0:
+###Features as of v1.0:
   - Check URL via GET method
   - Check multiple URLs via POST method
   - Check multiple URLs from local or remote file via POST method
   - Build a report in plain text or JSON format
-  
-### Simple usage:
+
+###Simple usage:
 
 ```java
         /*GET Request Example
