@@ -65,7 +65,7 @@
         */
 ```
 ###More usage :smile:
-
+[usage](./jar-usage.md)
 ```
 ##Dependencies
 - Apache Commons: commons-lang3-3.1
