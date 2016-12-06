@@ -1,4 +1,5 @@
 # Google Safebrowsing API v3.1 for Java
+[API V3 is currently deprecated -> refer to https://developers.google.com/safe-browsing/]
 
 ### This project implements the Google Safe Browsing Lookup API v3.1 in Java.
 
